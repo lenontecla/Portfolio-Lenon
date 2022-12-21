@@ -238,6 +238,24 @@ CARDS
     background: silver;
     color:#212529;
 }
+
+.carda{
+    display: inline-block;
+    justify-content: center;
+    text-align: left;
+    height: 215px;
+    width: 1090px;
+    border: solid;
+    margin-bottom: 10px;
+    border-width: 2px;
+    border-bottom-color: #424242;
+    border-right-color: #424242;
+    border-left-color: #fff;
+    border-top-color: #fff;
+    background: silver;
+    color:#212529;
+}
+
 .card.square{
     border-radius: 0px;
 }
